@@ -5,8 +5,31 @@ using UnityEngine;
 
 public class Camera_Follow : MonoBehaviour
 {
-    public int ODD_test_number2 = 2;
+    public int ODD_test_number2 = 1;
     public int ODD_test_number = 3;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     [SerializeField]
     private Transform playerTarget;
     private Transform target;
